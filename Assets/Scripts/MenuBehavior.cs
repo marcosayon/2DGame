@@ -7,7 +7,7 @@ public class MenuBehavior : MonoBehaviour {
     
     //will play the first level when play button is clicked
     public void PlayGame(){
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("LevelOneEnv");
     }
 
     //will open the options menu when options button is clicked
